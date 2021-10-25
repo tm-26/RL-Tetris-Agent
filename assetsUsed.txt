@@ -1,0 +1,7 @@
+Background: https://www.videvo.net/video/glowing-purple-grid-lines-tracking-in/393674/
+
+Sounds:
+going down = https://mixkit.co/free-sound-effects/arcade/
+bgmusic = https://www.youtube.com/watch?v=hLZ9OtEz-zA&fbclid=IwAR2zq4Fb2ysvNWQorKb_8KEgopapWRLZPN1jZIEilrBiKbe455Meq81r1LQ
+lineClear = https://freesound.org/people/GameAudio/sounds/220173/
+tetris = https://freesound.org/people/josepharaoh99/sounds/368651/

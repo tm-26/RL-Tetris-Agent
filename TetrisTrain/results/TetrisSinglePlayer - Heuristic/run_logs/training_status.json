@@ -1,0 +1,102 @@
+{
+    "TetrisSinglePlayer": {
+        "checkpoints": [
+            {
+                "steps": 10560934,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-10560934.nn",
+                "reward": null,
+                "creation_time": 1609629727.9114428
+            },
+            {
+                "steps": 25827115,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-25827115.nn",
+                "reward": null,
+                "creation_time": 1609670052.2964957
+            },
+            {
+                "steps": 30586861,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-30586861.nn",
+                "reward": null,
+                "creation_time": 1609694156.0877814
+            },
+            {
+                "steps": 48103975,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-48103975.nn",
+                "reward": null,
+                "creation_time": 1609759167.7698352
+            },
+            {
+                "steps": 48122407,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-48122407.nn",
+                "reward": null,
+                "creation_time": 1609759444.0480974
+            },
+            {
+                "steps": 61257127,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-61257127.nn",
+                "reward": null,
+                "creation_time": 1609922299.1930492
+            },
+            {
+                "steps": 73825655,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-73825655.nn",
+                "reward": null,
+                "creation_time": 1610006804.4659047
+            },
+            {
+                "steps": 87527912,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-87527912.nn",
+                "reward": null,
+                "creation_time": 1610093708.4034739
+            },
+            {
+                "steps": 103984112,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-103984112.nn",
+                "reward": null,
+                "creation_time": 1610188426.2261164
+            },
+            {
+                "steps": 118986998,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-118986998.nn",
+                "reward": null,
+                "creation_time": 1610277504.6873546
+            },
+            {
+                "steps": 136346336,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-136346336.nn",
+                "reward": null,
+                "creation_time": 1610368323.974347
+            },
+            {
+                "steps": 150157801,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-150157801.nn",
+                "reward": null,
+                "creation_time": 1610444983.0166144
+            },
+            {
+                "steps": 164153205,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-164153205.nn",
+                "reward": null,
+                "creation_time": 1610532045.6261325
+            },
+            {
+                "steps": 164153205,
+                "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer\\TetrisSinglePlayer-164153205.nn",
+                "reward": null,
+                "creation_time": 1614022417.7122784
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 164153205,
+            "file_path": "results\\TetrisSinglePlayer\\TetrisSinglePlayer.nn",
+            "reward": null,
+            "creation_time": 1614022417.7122784
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.6.0",
+        "tensorflow_version": "2.4.0"
+    }
+}

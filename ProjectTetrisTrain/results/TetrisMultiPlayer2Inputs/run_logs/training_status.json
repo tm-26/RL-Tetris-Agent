@@ -1,0 +1,36 @@
+{
+    "TetrisSinglePlayer": {
+        "checkpoints": [
+            {
+                "steps": 2209407,
+                "file_path": "results\\TetrisMultiPlayer2Inputs\\TetrisSinglePlayer\\TetrisSinglePlayer-2209407.nn",
+                "reward": null,
+                "creation_time": 1613925190.1149652
+            },
+            {
+                "steps": 9555708,
+                "file_path": "results\\TetrisMultiPlayer2Inputs\\TetrisSinglePlayer\\TetrisSinglePlayer-9555708.nn",
+                "reward": null,
+                "creation_time": 1614002203.2591696
+            },
+            {
+                "steps": 9555708,
+                "file_path": "results\\TetrisMultiPlayer2Inputs\\TetrisSinglePlayer\\TetrisSinglePlayer-9555708.nn",
+                "reward": null,
+                "creation_time": 1614023014.6648378
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 9555708,
+            "file_path": "results\\TetrisMultiPlayer2Inputs\\TetrisSinglePlayer.nn",
+            "reward": null,
+            "creation_time": 1614023014.6648378
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.23.0",
+        "torch_version": "1.6.0",
+        "tensorflow_version": "2.4.0"
+    }
+}

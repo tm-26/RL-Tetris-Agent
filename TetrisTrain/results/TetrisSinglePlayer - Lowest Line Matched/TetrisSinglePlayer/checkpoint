@@ -1,0 +1,2 @@
+model_checkpoint_path: "TetrisSinglePlayer-114106975.ckpt"
+all_model_checkpoint_paths: "TetrisSinglePlayer-114106975.ckpt"
